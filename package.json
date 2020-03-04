@@ -1,0 +1,17 @@
+{
+  "name": "newtpy",
+  "version": "1.0.0",
+  "description": "a bot to run evals for python using ideone",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "wattzon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.0.1",
+    "ideone-npm": "^3.0.0",
+    "winston": "^3.2.1"
+  }
+}
